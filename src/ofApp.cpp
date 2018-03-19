@@ -1,7 +1,7 @@
 #include "ofApp.h"
 
 int a = 0;
-float b = 2;
+float b = 4;
 //--------------------------------------------------------------
 void ofApp::setup(){
 
